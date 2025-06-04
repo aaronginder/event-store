@@ -194,3 +194,4 @@ cython_debug/
 .cursorindexingignore
 data/Sales Data*
 event_store/data/**
+output/** 
